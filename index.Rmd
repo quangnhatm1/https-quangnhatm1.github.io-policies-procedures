@@ -1,0 +1,65 @@
+---
+title: "*University of Houston Downtown (UHD)*"
+author: "*Quang Le*"
+output: 
+  html_document:
+    keep_md: true
+    toc: true
+    toc_depth: 3
+    toc_float: 
+      collapsed: false
+      smooth_scroll: true
+---
+
+```{=html}
+<style>
+.centered {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  color: purple;
+}
+body {
+  font-size: 13pt;
+  font-family: "Times New Roman", Times, serif;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: #ddd;
+  color: black;
+}
+</style>
+
+<div class="navbar"> 
+  <a href="https://quangnhatm1.github.io">About Me</a>
+  <a href=" https://quangnhatm1.github.io/https-quangnhatm1.github.io-mission-vision/">Mission and Vision</a> 
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/">Forms</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-policies-procedures/">Policies</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-activities/">Activities</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-projects/">Projects</a>
+  <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-QA/">Q&A</a>
+      </div>
+```
+
+::: centered
+<h1>**Policies**</h1>
+
+<p>`r format(Sys.time(), '%d %B, %Y')`</p>
+<img src="C:\Users\lequa\Downloads\policies.jpg" alt="Quang Le" style="width:300px;height: 300px;"/>
+
+:::
+---
+
+# ***I. SI Session Policy***
+## *1. On Going*
