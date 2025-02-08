@@ -5,11 +5,15 @@ output:
   html_document:
     keep_md: true
     toc: true
-    toc_depth: 3
+    toc_depth: 2
     toc_float: 
       collapsed: false
       smooth_scroll: true
 ---
+```{=html}
+    <img src="C:\Users\lequa\Downloads\commerce.jpg" alt="Cover Photo" style="width:100%; height: 300px;"/>
+```
+
 
 ```{=html}
 <style>
@@ -53,13 +57,48 @@ body {
 ```
 
 ::: centered
-<h1>**Policies**</h1>
+<h1>**Policies & Procedures**</h1>
 
 <p>`r format(Sys.time(), '%d %B, %Y')`</p>
-<img src="C:\Users\lequa\Downloads\policies.jpg" alt="Quang Le" style="width:300px;height: 300px;"/>
+<img src="C:\Users\lequa\Downloads\policies.jpg" alt="Quang Le" style="width:500px;height: 300px;"/>
 
 :::
 ---
 
-# ***I. SI Session Policy***
-## *1. On Going*
+# ***I. SI Session Policy & Procedures***
+## ***<u>1. Before the SI Session</u>***
+### ***a. You <u>MUST</u> bring these following items below to join SI Session:***
+
+1. Laptop or Tablet (including your charger if possible).
+2. Your notebook(s) to take note.
+3. Confidence feelings.
+
+### ***b. You <u>MUST NOT</u> bring these following items below to join SI Session:***
+
+1. Harmful object (knife, sword, gun,...).
+2. Hot food or stale food (if you want to eat hot food, please bring it outside my session).
+3. Angry or upset feelings (I cannot let you join if you are not engaging with others students).
+
+```{=html}
+<div style="position: fixed; right: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
+    <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-activities/" style="color: white; text-decoration: none; font-weight: bold;">Next Page →</a>
+</div>
+    <div style="position: fixed; left: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
+    <a href="https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/" style="color: white; text-decoration: none; font-weight: bold;">←Previous Page</a>
+</div>
+    
+```
+
+```{=html}
+<div style="background-color: black; display: flex; align-items: center; padding: 10px;">
+    <a href="https://www.uhd.edu" style="margin-right: auto;">
+        <img src="C:\Users\lequa\Downloads\UHD-Logo-Corporate.png" alt="UHD Logo" style="height: 50px; wide: 50 px">
+    </a>
+    <p style="color: white; margin: 5;">&copy; 2025 Quang Le | 
+        <a href="https://www.uhd.edu" style="color: white; text-decoration: none;">University of Houston - Downtown</a> | 
+        <a href="https://www.uhd.edu/sssl/supplemental-instruction/index.aspx" style="color: white; text-decoration: none;">Supplemental Instruction Program|</a>
+    </p>
+</div>
+```
+
+
