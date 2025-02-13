@@ -67,17 +67,61 @@ body {
 
 # ***I. SI Session Policy & Procedures***
 ## ***<u>1. Before the SI Session</u>***
-### ***a. You <u>MUST</u> bring these following items below to join SI Session:***
+### ***a. You <u>MUST</u> ✓***
 
-1. Laptop or Tablet (including your charger if possible).
-2. Your notebook(s) to take note.
-3. Confidence feelings.
+1. Bring a ***<u>laptop or tablet</u>*** (including your charger if possible).
+2. Have your ***<u> notebook(s) or laptop</u>*** ready to take notes.
+3. Come with ***<u>confidence and a positive attitude</u>.***
+4. Ensure you have ***<u>access to any relevant course materials</u>***.
+5. Be ***<u>on time and prepared to engage actively</u>*** in the session.
+6. All of students joining ***<u>VIRTUAL SI SESSION REQUIRED TO OPEN THEIR WEBCAM</u>***.
 
-### ***b. You <u>MUST NOT</u> bring these following items below to join SI Session:***
+### ***b. You <u>MUST NOT</u> ❌***
 
-1. Harmful object (knife, sword, gun,...).
-2. Hot food or stale food (if you want to eat hot food, please bring it outside my session).
-3. Angry or upset feelings (I cannot let you join if you are not engaging with others students).
+1. Bring ***<u>harmful objects</u>*** (e.g., knife, sword, gun, etc.).
+2. Bring ***<u>hot food</u>***  **(if you want to eat hot food, please consume it outside the session. However, I will allow you to eat if you share your food with me and other students!**<p> &#128513; &#128525;  </p>
+3. Come with ***<u>angry or upset feelings.</u>***
+
+## ***<u>2. During SI Session</u>***
+### ***a. You <u>MUST</u> ✓***
+
+1. Fill out the ***[Check-in Form](https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/#2_SI_Session_Check-in_Form_2025)*** at the start of session.
+2. Actively ***participate and engage*** in the discussion.
+
+3. ***Listen respectfully*** to the SI leader and your peers.
+
+4. ***Ask questions*** if you need clarification or further explanation.
+
+5. ***Collaborate with other students*** to enhance learning.
+
+6. Stay ***focused on the session*** topics and materials.
+
+7. Fill out the ***[Evaluation Form](https://quangnhatm1.github.io/https-quangnhatm1.github.io-forms/#4_Request_Virtual_SI_Session_Form_2025)*** at the end of session.
+
+
+### ***b. You <u>MUST NOT</u> ❌***
+
+1. ***Distract others*** with side conversations or unrelated activities.
+
+2. Use your device for ***non-session-related activities.***
+
+3. ***Disrupt the session*** by arriving late or leaving early without prior notice.
+
+4. Be ***disrespectful or dismissive*** towards others' contributions.
+
+5. Bring any ***food or drink*** that may cause a distraction or mess **(it is will be OKAY if you share your food/drink with students too! I will very happy with that!)**<p> &#128513; &#128076;  </p>
+
+## ***<u>3. Emergency Situation during SI Session</u>***
+
+> ***IF YOU SEE SOMETHING, SAY SOMETHING!***
+
+### ***You <u>MUST</u> ✓***
+
+1. If you feel ***not well or ill***, please ***inform immediately to SI Leader about your situation.***
+2. If ***the room has smoke or fire***, please ***inform immediately to SI Leader or UHDPD (UHD Police Department) or dial 911***.
+3. If you ***see suspicious activities*** during SI Session, please ***inform immediately to SI Leader or UHDPD or dial 911***.
+
+
 
 ```{=html}
 <div style="position: fixed; right: 20px; bottom: 20px; background-color: #008cba; color: white; padding: 10px 20px; border-radius: 5px; text-align: center; font-size: 13pt; text-decoration: none;">
